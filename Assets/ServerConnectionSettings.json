@@ -1,0 +1,6 @@
+{
+    "enableNetworkDebugging": true,
+    "debugServerIpAddress": "192.168.14.39",
+    "debugServerPort": "8080",
+    "fullPathToAdb": "C:\Users\kamahie\AppData\Local\Android\sdk\platform-tools\adb.exe"
+}
